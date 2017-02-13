@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Administrative Words</string>
+    <string name="hindi_app_name">प्रशासनिक शब्दावली</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="query_placeholder">Query Word</string>
+    <string name="action_all_words">All Words</string>
+    <string name="action_last_words">Previous Words</string>
+    <string name="title_activity_all_words">All Words</string>
+    <string name="title_activity_last_words">Last Words</string>
+</resources>
